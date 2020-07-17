@@ -6,15 +6,15 @@ module.exports = {
   title: 'Floating in Vancouver',
   subtitle: 'Stay weird☁️☁️☁️ Building http://AskMakers.co.',
   copyright: '© All rights reserved.',
-  disqusShortname: 'bankubadekao-ezhong',
+  disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-27648393-27',
   useKatex: false,
   menu: [
     {
       label: 'Articles',
-      path: '/'
-    }
+      path: '/',
+    },
   ],
   author: {
     name: 'Tashi Kato',
@@ -36,6 +36,6 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: 'floatingtheworld',
-    }
-  }
+    },
+  },
 };
